@@ -1,0 +1,12 @@
+#####################################################
+#            Config for CropRightClick              #
+#####################################################
+
+# Should VeinMineMode be active (Default: false)
+veinmine: false
+
+# Maximum VeinMine radius (Default: 8) (Larger numbers will cause lag spikes)
+vmradius: 8
+
+# Should players have an empty hand (Default: true)
+emptyhand: true

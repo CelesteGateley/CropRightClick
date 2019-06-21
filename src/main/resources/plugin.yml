@@ -1,0 +1,7 @@
+name: CropRightClick
+version: ${project.version}
+main: net.fluxinc.croprightclick.CropRightClick
+api-version: 1.14
+softdepend: [WorldGuard, GriefPrevention]
+authors: [CelesteMagisteel]
+description: Right click crops to harvest them

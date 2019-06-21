@@ -1,7 +1,5 @@
 package net.fluxinc.croprightclick;
 
-import com.sk89q.worldedit.regions.Region;
-import com.sk89q.worldguard.LocalPlayer;
 import com.sk89q.worldguard.WorldGuard;
 import me.ryanhamshire.GriefPrevention.GriefPrevention;
 import net.fluxinc.croprightclick.listeners.InteractListener;
